@@ -1,9 +1,9 @@
-#Simple todo list
+# Simple todo list
 
 You can add ToDo, ToBuy and ToRead items in list
 
 Python 3.5 and higher has to be installed in your system.
-Just run 
+Just run:
 ```commandline
 python todo.py
 ```
